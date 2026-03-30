@@ -1,5 +1,4 @@
-# 42-OS
-42/OS NPRL-Edition<br>
+# 42-OS NPRL-Edition
 Workstation and Server Operating System<br>
 <br>
 42/OS NPRL-Edition is non-profit Software by accepting work-time finances for everyone.<br>
