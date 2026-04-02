@@ -20,4 +20,7 @@ Dont forget to set the Parition/Drive/Media boot-able and boot from it with HdTo
 
 Example 2:
 Plug yours Parition/Drive/Media for Installation to a *UAE/etc Machine, configure the
-Emulator and boot the .hdf 
+Emulator and boot the .hdf. Manage with HDToolBox the Target Partitions and Drive. After
+extract from Data-HDF:<filename>-.tar the OS to yours Parition/Drive/Media.
+After finished, set with HDToolBox the OS Drive/Parition boot-able with advanced Options
+and boot it.
