@@ -24,7 +24,7 @@ Example 2: .hdf-Way
 Plug yours Partition/Drive/Media for Installation to a *UAE/etc Machine, configure the
 Emulator and boot the .hdf. Manage with SYS:System/Disktools/HDToolBox the Target Partitions and Drive.
 After extract from Data-HDF:<filename>-.tar 42/OS to yours Parition/Drive/Media.
-After finished, setup via HDToolBox the OS Drive/Parition boot-able with the advanced Options
+After finished, setup via HDToolBox the 42/OS Drive/Parition boot-able with the advanced Options
 and boot it.
 
 
