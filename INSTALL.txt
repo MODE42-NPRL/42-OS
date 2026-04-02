@@ -9,7 +9,7 @@ The .tar.7z is the whole Filesystem for direct extracting it to a new media, dir
 First, un7zip the .tar.7z. After: tar xvfp <filename>.tar -C <destination/target> and done or switch
 to the target/destination and do the tar xvfp.. without "-C <destination/target>".
 
-The .hdf.7z is emulator and boot ready for Emulators like *UAE out of the box and contains at Data-HDF: the
+The .hdf is emulator and boot ready for Emulators like *UAE out of the box and contains at Data-HDF: the
 .tar archive already extracted thus without .7z.
 
 
