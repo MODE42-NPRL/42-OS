@@ -4,7 +4,6 @@ There are splitted-archives 7z.xx to extract by user-choice with 7-zip/compatibl
 The .7z.00 is the first-file to start the extraction, there are:
 
 .tar.7z Archive
-and
 .hdf.7z Archive
 
 The .tar.7z is the whole Filesystem for direct extracting it to a new media, directory or drive.
