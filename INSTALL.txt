@@ -10,3 +10,10 @@ The .hdf.7z is emulator and boot ready for Emulators like *UAE out of the box an
 .tar archive already extracted thus without .7z.
 
 Clone/copy the Filesystem to yours Boot-Drive:
+There a different ways to bring 42/OS to your MACH/Machine for useage.
+
+Example 1:
+"tar xvfp .." direct at the Machine for install/use to a new/fresh Parition/Drive/Media.
+Dont forget to set the Parition/Drive/Media boot-able and boot from it.
+
+Example 2:
