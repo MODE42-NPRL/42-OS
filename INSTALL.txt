@@ -1,4 +1,4 @@
-Firstly, there are two archives to extract with 7-zip/compatible software:
+Firstly, there are two archives to extract by user-choice with 7-zip/compatible software:
 .tar.7z Archive
 and
 .hdf.7z Archive
