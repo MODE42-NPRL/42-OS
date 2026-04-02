@@ -6,7 +6,8 @@ and
 .hdf.7z Archive
 
 The .tar.7z is the whole Filesystem for direct extracting it to a media, directory or drive.
-First, un7zip the .tar.7z and after: tar xvfp <filename>.tar -C <destination/target> and done.
+First, un7zip the .tar.7z and after: tar xvfp <filename>.tar -C <destination/target> and done or switch
+the target/destination and to tar xvfp.. without "-C <destination/target>".
 
 The .hdf.7z is emulator and boot ready for Emulators like *UAE out of the box and contains at Data-HDF: the
 .tar archive already extracted thus without .7z.
@@ -14,12 +15,12 @@ The .hdf.7z is emulator and boot ready for Emulators like *UAE out of the box an
 Clone/copy the Filesystem to yours Boot-Drive:
 There a different ways to bring 42/OS to your MACH/Machine for useage.
 
-Example 1:
+Example 1: .tar-Way
 "tar xvfp .." direct at the Machine for install/use to a new/fresh Parition/Drive/Media.
-Dont forget to set the Parition/Drive/Media boot-able and boot from it with HdToolBox.
+Dont forget to set with HDToolBox the Parition/Drive/Media boot-able and boot from it.
 
-Example 2:
-Plug yours Parition/Drive/Media for Installation to a *UAE/etc Machine, configure the
+Example 2: .hdf-Way
+Plug yours Partition/Drive/Media for Installation to a *UAE/etc Machine, configure the
 Emulator and boot the .hdf. Manage with HDToolBox the Target Partitions and Drive. After
 extract from Data-HDF:<filename>-.tar the OS to yours Parition/Drive/Media.
 After finished, set with HDToolBox the OS Drive/Parition boot-able with advanced Options
