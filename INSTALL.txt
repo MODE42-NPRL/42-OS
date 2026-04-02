@@ -5,14 +5,15 @@ There are two archives to extract by user-choice with 7-zip/compatible software:
 and
 .hdf.7z Archive
 
-The .tar.7z is the whole Filesystem for direct extracting it to a media, directory or drive.
-First, un7zip the .tar.7z and after: tar xvfp <filename>.tar -C <destination/target> and done or switch
-to the target/destination and do tar xvfp.. without "-C <destination/target>".
+The .tar.7z is the whole Filesystem for direct extracting it to a new media, directory or drive.
+First, un7zip the .tar.7z. After: tar xvfp <filename>.tar -C <destination/target> and done or switch
+to the target/destination and do the tar xvfp.. without "-C <destination/target>".
 
 The .hdf.7z is emulator and boot ready for Emulators like *UAE out of the box and contains at Data-HDF: the
 .tar archive already extracted thus without .7z.
 
-Clone/copy the Filesystem to yours Boot-Drive:
+
+Clone/copy the Filesystem to new Boot-Drive:
 There a different ways to bring 42/OS to your MACH/Machine for useage.
 
 Example 1: .tar-Way
@@ -21,7 +22,11 @@ Dont forget to set with HDToolBox the Parition/Drive/Media boot-able and boot fr
 
 Example 2: .hdf-Way
 Plug yours Partition/Drive/Media for Installation to a *UAE/etc Machine, configure the
-Emulator and boot the .hdf. Manage with HDToolBox the Target Partitions and Drive. After
-extract from Data-HDF:<filename>-.tar the OS to yours Parition/Drive/Media.
-After finished, set with HDToolBox the OS Drive/Parition boot-able with advanced Options
+Emulator and boot the .hdf. Manage with SYS:System/Disktools/HDToolBox the Target Partitions and Drive.
+After extract from Data-HDF:<filename>-.tar 42/OS to yours Parition/Drive/Media.
+After finished, setup via HDToolBox the OS Drive/Parition boot-able with the advanced Options
 and boot it.
+
+
+Note:
+- 42/OS uses Smartfilesystem as default Filesystem
