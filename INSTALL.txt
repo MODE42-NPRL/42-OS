@@ -1,10 +1,12 @@
-Firstly, there are two archives to extract by user-choice with 7-zip/compatible software:
+There are two archives to extract by user-choice with 7-zip/compatible software:
 .tar.7z Archive
 and
 .hdf.7z Archive
 
 The .tar.7z is the whole Filesystem for direct extracting it to a media, directory or drive.
-First, un7zip the .tar.7z after, tar xvfp <filename>.tar -C <destination/target> and done.
+First, un7zip the .tar.7z and after: tar xvfp <filename>.tar -C <destination/target> and done.
 
 The .hdf.7z is emulator and boot ready for Emulators like *UAE out of the box and contains at Data-HDF: the
 .tar archive already extracted thus without .7z.
+
+Clone/copy the Filesystem to yours Boot-Drive:
