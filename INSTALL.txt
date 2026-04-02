@@ -1,13 +1,13 @@
 42/OS Installation
 
-There are splitted-archives 7z.xx to extract by user-choice with 7-zip/compatible software.
-The .7z.00 is the first-file to start the extraction, there are:
+There are 7z.xx splitted-archives to extract by user-choice with 7-zip/compatible software.
+The .7z.00 is the first-file to start the extraction, there are as complete:
 
 .tar.7z Archive
 .hdf.7z Archive
 
 The .tar.7z is the whole Filesystem for direct extracting it to a new media, directory or drive.
-First, un7zip the .tar.7z. After: tar xvfp <filename>.tar -C <destination/target> and done or switch
+First, un7zip the .tar.7z. After: tar xvfp <filename>.tar -C <destination/target> or switch
 to the target/destination and do the tar xvfp.. without "-C <destination/target>".
 
 The .hdf is emulator and boot ready for Emulators like *UAE out of the box and contains at Data-HDF: the
@@ -16,18 +16,23 @@ The .hdf is emulator and boot ready for Emulators like *UAE out of the box and c
 
 Clone/copy the Filesystem to new Boot-Drive:
 There a different ways to bring 42/OS to your MACH/Machine for useage.
+After clone/copy of 42/OS setup and config the requirements for the Hardware used for
+the first boot.
 
 Example 1: .tar-Way
-"tar xvfp .." direct at the Machine for install/use to a new/fresh Partition/Drive/Media.
-Dont forget to set with HDToolBox the Partition/Drive/Media boot-able and boot from it.
+"tar xvfp .." direct with the Machine for install/use to a new/fresh Partition/Drive/Media.
+Dont forget to setup with HDToolBox the Partition/Drive/Media boot-able and boot from it.
 
 Example 2: .hdf-Way
 Plug yours Partition/Drive/Media for Installation to a *UAE/etc Machine, configure the
 Emulator and boot the .hdf. Manage with SYS:System/Disktools/HDToolBox the Target Partitions and Drive.
-After extract from Data-HDF:<filename>-.tar 42/OS to yours Partition/Drive/Media.
-After finished, setup via HDToolBox the 42/OS Drive/Partition boot-able with the advanced Options
+After reboot and formating the target/destination extract from Data-HDF:<filename>-.tar of 42/OS to the new Partition/Drive/Media.
+Now, setup via HDToolBox the 42/OS Drive/Partition boot-able with the advanced Options
 and boot it.
 
 
 Note:
-- 42/OS uses Smartfilesystem as default Filesystem
+- 42/OS uses Smartfilesystem as default Filesystem - this time not mandatory
+
+Notice:
+- Boot Priority is from 0 to 128 - the largest number boots automatically
