@@ -17,14 +17,14 @@ Clone/copy the Filesystem to new Boot-Drive:
 There a different ways to bring 42/OS to your MACH/Machine for useage.
 
 Example 1: .tar-Way
-"tar xvfp .." direct at the Machine for install/use to a new/fresh Parition/Drive/Media.
-Dont forget to set with HDToolBox the Parition/Drive/Media boot-able and boot from it.
+"tar xvfp .." direct at the Machine for install/use to a new/fresh Partition/Drive/Media.
+Dont forget to set with HDToolBox the Partition/Drive/Media boot-able and boot from it.
 
 Example 2: .hdf-Way
 Plug yours Partition/Drive/Media for Installation to a *UAE/etc Machine, configure the
 Emulator and boot the .hdf. Manage with SYS:System/Disktools/HDToolBox the Target Partitions and Drive.
-After extract from Data-HDF:<filename>-.tar 42/OS to yours Parition/Drive/Media.
-After finished, setup via HDToolBox the 42/OS Drive/Parition boot-able with the advanced Options
+After extract from Data-HDF:<filename>-.tar 42/OS to yours Partition/Drive/Media.
+After finished, setup via HDToolBox the 42/OS Drive/Partition boot-able with the advanced Options
 and boot it.
 
 
