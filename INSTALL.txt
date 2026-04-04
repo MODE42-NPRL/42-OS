@@ -1,7 +1,7 @@
 42/OS Installation
 
 There are 7z.xxx splitted-archives to extract by user-choice with 7-zip/compatible software.
-The .7z.000 is the first-file to start the extraction, there are as complete:
+The .7z.001 is the first-file to start the extraction, there are as complete:
 
 <filename>.tar.7z Archive
 <filename>.hdf.7z Archive
