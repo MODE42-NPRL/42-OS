@@ -2,7 +2,7 @@
 Workstation and Server Operating System<br>
 <br>
 42/OS NPRL-Edition is non-profit Software by accepting work-time finances for everyone.<br>
-Including and comeing from Motorola68k/Commodore/Amiga++ Solutions<br>
+Including and comeing from AOS39++ Solutions<br>
 with theres permissions and licenses.<br>
 <br><br>
 
