@@ -1,3 +1,4 @@
+<img width="184" height="123" alt="42-OS_mini" src="https://github.com/user-attachments/assets/aa2f435e-bc2e-44c7-abfc-73c4e94a0688" />
 # 42/OS NPRL-Edition
 Workstation and Server Operating System<br>
 <br>
