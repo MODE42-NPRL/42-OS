@@ -6,4 +6,4 @@ Including and comeing from AOS39++ Solutions with theres permissions and license
 <br><br>
 ![Desktop10](https://github.com/user-attachments/assets/74d371ce-28d2-476e-b944-197ef83da2c5)
 <br>
-* 42/OS — using a historically republish‑permitted AOS39 Gift‑Ware release; 100% original code.”
+* 42/OS — using a historically republish‑permitted AOS39 Gift‑Ware release
